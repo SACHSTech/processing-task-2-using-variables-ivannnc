@@ -1,8 +1,8 @@
 import processing.core.PApplet;
 
 /**
- * Main class to execute sketch
- * @author 
+ * A program that outputs the image up to size
+ * @author I. Chen
  *
  */
 class Main {
